@@ -1,0 +1,38 @@
+{
+  "name": "Bloggue.web.id",
+  "short_name": "Blog Gue",
+  "start_url": "https://www.bloggue.web.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#7975ff",
+  "description": "Blog yang membahas gaya hidup, kabar selebritis, info menarik, dan entertainment.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s48/favicon-bloggue.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s72/favicon-bloggue.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s96/favicon-bloggue.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s144/favicon-bloggue.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s168/favicon-bloggue.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s192/favicon-bloggue.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GoV_-jtgwt8/Wr7HbUYYDWI/AAAAAAAAwtM/mif4U-RLBnopr7uioBeLilK1RrRqV0URACLcBGAs/s512/favicon-bloggue.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
