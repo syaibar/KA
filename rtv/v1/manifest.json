@@ -1,0 +1,38 @@
+{
+  "name": "RajawaliTV.com",
+  "short_name": "RajawaliTV",
+  "start_url": "https://www.rajawalitv.com/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "Tempat nonton TV Online Indonesia live streaming terlengkap dan tercepat tanpa buffering gratis diakses dengan PC, laptop, gadget, maupun hp.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s48/fav-rajawalitv3.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s72/fav-rajawalitv3.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s96/fav-rajawalitv3.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s144/fav-rajawalitv3.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s168/fav-rajawalitv3.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s192/fav-rajawalitv3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-oySjtr4aF4Y/W2YBCwOPPsI/AAAAAAAAy1I/Pecs19yp62IpEMXyFBdlZEH1g_hGYyemQCLcBGAs/s512/fav-rajawalitv3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
